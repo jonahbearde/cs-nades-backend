@@ -4,7 +4,7 @@ import { Nade } from "./nade.model"
 import formidable, { Fields } from "formidable"
 import { uploadToCloudinary } from "../../utils/cloudinary"
 import { createNade } from "./nade.service"
-import {UploadApiResponse} from 'cloudinary'
+import { UploadApiResponse } from "cloudinary"
 
 type NadeFields =
   | "map"
@@ -47,18 +47,18 @@ export async function createNadeHandler(
       resultImageUrl: "",
     }
 
-		console.log('try uploading')
+    console.log("try uploading")
     try {
       for (let key in files) {
         const file = files[key] as formidable.File[]
-				
-        const { secure_url: url, public_id: id } = await uploadToCloudinary(
+
+        const { secure_url: url, public_id: id } = (await uploadToCloudinary(
           file[0].filepath,
-					{
-						resource_type: key === "video" ? "video" : "image",
-						folder: key === "video" ? "cs-nades/videos" : "cs-nades/images"
-					}
-        ) as UploadApiResponse
+          {
+            resource_type: key === "video" ? "video" : "image",
+            folder: key === "video" ? "cs-nades/videos" : "cs-nades/images",
+          }
+        )) as UploadApiResponse
 
         if (key === "video") {
           nadeToCreate.videoUrl = url
@@ -81,13 +81,13 @@ export async function createNadeHandler(
         ),
       })
 
-			if(result.acknowledged){
-				res.json(result)
-			}else{
-				res.status(500).send('Nade not created')
-			}
+      if (result.acknowledged) {
+        res.json(result)
+      } else {
+        res.status(500).send("Nade not created")
+      }
     } catch (error) {
-			console.log(error)
+      console.log(error)
       next(error)
     }
   })

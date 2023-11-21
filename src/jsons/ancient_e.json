@@ -1,0 +1,244 @@
+[
+	{
+			"id": "0DTa9P2tHTvL3vNnxaYB",
+			"calloutName": "Short",
+			"map": "ancient",
+			"position": {
+					"x": 764.8123076923077,
+					"y": 300.0738461538461
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "1dlpjkZImeNy6g2gudJM",
+			"calloutName": "Ramp",
+			"map": "ancient",
+			"position": {
+					"x": 892.4184615384615,
+					"y": 506.4492307692308
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "5TUJXtVnxGhto7AXHvSg",
+			"calloutName": "Triple",
+			"map": "ancient",
+			"position": {
+					"x": 322.1292307692308,
+					"y": 237.0584615384615
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "6fYVWXo3dTubTW11vvu7",
+			"calloutName": "Temple",
+			"map": "ancient",
+			"position": {
+					"x": 255.96307692307693,
+					"y": 170.8923076923077
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "8K0suL2b09pNGARxrbMj",
+			"calloutName": "Long",
+			"map": "ancient",
+			"position": {
+					"x": 895.5692307692307,
+					"y": 334.7323076923077
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "91hCp59XGoRum60MIyqE",
+			"calloutName": "Elbow",
+			"map": "ancient",
+			"position": {
+					"x": 402.4738461538462,
+					"y": 596.2461538461539
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "DQNsHOzxb8QfdJhX7Hux",
+			"calloutName": "Cheetah",
+			"map": "ancient",
+			"position": {
+					"x": 657.6861538461537,
+					"y": 575.7661538461538
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "GgTXydczpu3mR9wekokV",
+			"calloutName": "Top Mid",
+			"map": "ancient",
+			"position": {
+					"x": 495.4215384615384,
+					"y": 372.5415384615385
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "M0dU3atMbc9mbisGSGtK",
+			"calloutName": "Tunnel",
+			"map": "ancient",
+			"position": {
+					"x": 304.79999999999995,
+					"y": 318.9784615384615
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "MCqE8SFkrs2V6ZcgXi9d",
+			"calloutName": "House",
+			"map": "ancient",
+			"position": {
+					"x": 616.7261538461538,
+					"y": 262.26461538461535
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "Nu1UOMXLuDQsJa41mCxL",
+			"calloutName": "Alley",
+			"map": "ancient",
+			"position": {
+					"x": 733.3046153846153,
+					"y": 235.48307692307688
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "O89uQbiYfmiCJT4bxLM9",
+			"calloutName": "Cave",
+			"map": "ancient",
+			"position": {
+					"x": 734.88,
+					"y": 386.72
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "Sp43Z6tjylUr8kuKf763",
+			"calloutName": "Cubby",
+			"map": "ancient",
+			"position": {
+					"x": 550.5600000000001,
+					"y": 476.5169230769231
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "Tow9yMPp5Xbx1I1fQ7qm",
+			"calloutName": "Double Door",
+			"map": "ancient",
+			"position": {
+					"x": 853.0338461538461,
+					"y": 638.7815384615384
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "Y7GwPrmuofp8ijAyAHTz",
+			"calloutName": "Street",
+			"map": "ancient",
+			"position": {
+					"x": 359.9384615384615,
+					"y": 189.79692307692306
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "p8Tv1kQHbNNzqfniYUGK",
+			"calloutName": "Catwalk",
+			"map": "ancient",
+			"position": {
+					"x": 571.04,
+					"y": 602.5476923076924
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "pzXdeq2JbO2aBaM0SvZh",
+			"calloutName": "A Main",
+			"map": "ancient",
+			"position": {
+					"x": 148.83692307692306,
+					"y": 352.0615384615385
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "tQKUlZFl9o4uZWH9zU9w",
+			"calloutName": "Highway",
+			"map": "ancient",
+			"position": {
+					"x": 760.0861538461537,
+					"y": 607.2738461538461
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "uNpXH01RM2isKVImcFMI",
+			"calloutName": "Dark",
+			"map": "ancient",
+			"position": {
+					"x": 711.2492307692306,
+					"y": 493.84615384615375
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "w9IySB9B8ZMYbwBZvyto",
+			"calloutName": "Tomb",
+			"map": "ancient",
+			"position": {
+					"x": 427.68,
+					"y": 470.2153846153846
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "xDalKkhjmwmxLaa36r8w",
+			"calloutName": "Stairs",
+			"map": "ancient",
+			"position": {
+					"x": 207.12615384615384,
+					"y": 561.5876923076922
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "zCRisDI5u70s9swePGRv",
+			"calloutName": "Plat",
+			"map": "ancient",
+			"position": {
+					"x": 147.26153846153844,
+					"y": 185.07076923076923
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	}
+]

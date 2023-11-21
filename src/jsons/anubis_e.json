@@ -1,0 +1,266 @@
+[
+	{
+			"id": "0fd1ElNZOR8gg6QLUJCZ",
+			"calloutName": "A Site",
+			"map": "anubis",
+			"position": {
+					"x": 790.0184615384616,
+					"y": 298.49846153846147
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "7IeYZJ0QlIXfvlN6if2s",
+			"calloutName": "Fountain",
+			"map": "anubis",
+			"position": {
+					"x": 865.636923076923,
+					"y": 282.7446153846154
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "A8tuqeRhbWKjIhvc3Tgb",
+			"calloutName": "Bridge",
+			"map": "anubis",
+			"position": {
+					"x": 506.4492307692307,
+					"y": 560.0123076923076
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "AOJCvnDi3euKxvRw6Fyr",
+			"calloutName": "Backsite B",
+			"map": "anubis",
+			"position": {
+					"x": 348.91076923076923,
+					"y": 533.2307692307692
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "G2zzQSIsOLY508f46T6v",
+			"calloutName": "Pillar",
+			"map": "anubis",
+			"position": {
+					"x": 300.0738461538461,
+					"y": 545.833846153846
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "J1gAigue55lShVVbSHkK",
+			"calloutName": "Upper",
+			"map": "anubis",
+			"position": {
+					"x": 791.593846153846,
+					"y": 539.5323076923077
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "KZkgMJzBbVPs3lacuKYM",
+			"calloutName": "A Main",
+			"map": "anubis",
+			"position": {
+					"x": 868.7876923076922,
+					"y": 359.93846153846147
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "LYJciaLgmskCjc7pm2sW",
+			"calloutName": "Connector",
+			"map": "anubis",
+			"position": {
+					"x": 361.5138461538461,
+					"y": 582.0676923076923
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "RRIQFKbnda8sBN4XfzcI",
+			"calloutName": "Plateau",
+			"map": "anubis",
+			"position": {
+					"x": 722.276923076923,
+					"y": 326.8553846153846
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "RaKyFaX5dRHcp657c2pd",
+			"calloutName": "Window",
+			"map": "anubis",
+			"position": {
+					"x": 514.3261538461538,
+					"y": 487.5446153846154
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "UrdCktsHCFa4xE6vAfSx",
+			"calloutName": "Connector",
+			"map": "anubis",
+			"position": {
+					"x": 432.40615384615376,
+					"y": 626.1784615384614
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "VrNm0RQp9FcWcvTRTkI0",
+			"calloutName": "B Site",
+			"map": "anubis",
+			"position": {
+					"x": 289.0461538461538,
+					"y": 490.6953846153846
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "dsbdbbtX6dp1if62UIuR",
+			"calloutName": "Heaven",
+			"map": "anubis",
+			"position": {
+					"x": 727.0030769230768,
+					"y": 205.5507692307692
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "hoAR969ZoSLWQXG1ZwE9",
+			"calloutName": "A Main",
+			"map": "anubis",
+			"position": {
+					"x": 823.1015384615383,
+					"y": 474.94153846153847
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "htJ4hqXkK2Dap596ak9g",
+			"calloutName": "Mid Palace",
+			"map": "anubis",
+			"position": {
+					"x": 542.6830769230769,
+					"y": 334.7323076923077
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "iUBp6yo91WoJc5QqC3uS",
+			"calloutName": "A Stairs",
+			"map": "anubis",
+			"position": {
+					"x": 758.5107692307691,
+					"y": 356.7876923076923
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "sCsW34rqoW9Z91GFs4bl",
+			"calloutName": "B Main",
+			"map": "anubis",
+			"position": {
+					"x": 216.57846153846154,
+					"y": 574.1907692307693
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "sGVvu59MG05E4x68LGog",
+			"calloutName": "Walkway",
+			"map": "anubis",
+			"position": {
+					"x": 641.9323076923076,
+					"y": 386.71999999999997
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "sZ1xYRrcQsLgbBG0SBjx",
+			"calloutName": "Stairs",
+			"map": "anubis",
+			"position": {
+					"x": 687.6184615384615,
+					"y": 660.8369230769231
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "vV2Kv8qFCzaQNC4WfRew",
+			"calloutName": "Palace",
+			"map": "anubis",
+			"position": {
+					"x": 342.6092307692308,
+					"y": 427.68
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "wEcCOR9LndIvQTKOp8rb",
+			"calloutName": "Heaven",
+			"map": "anubis",
+			"position": {
+					"x": 689.193846153846,
+					"y": 293.7723076923077
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "wwlazFuyY49nin9LON3Y",
+			"calloutName": "Street",
+			"map": "anubis",
+			"position": {
+					"x": 281.1692307692308,
+					"y": 416.6523076923077
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "xJUbxV08S4Rjy1aQ4a5Q",
+			"calloutName": "Top Mid",
+			"map": "anubis",
+			"position": {
+					"x": 504.87384615384616,
+					"y": 657.6861538461538
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	},
+	{
+			"id": "yS3ejhd2C9wixFyqFEmp",
+			"calloutName": "Canal",
+			"map": "anubis",
+			"position": {
+					"x": 553.7107692307692,
+					"y": 610.4246153846153
+			},
+			"type": "smoke",
+			"gameMode": "cs2"
+	}
+]
