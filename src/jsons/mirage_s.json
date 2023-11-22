@@ -1,7 +1,7 @@
 [
 	{
 			"id": "24E7dUYsBPW3yWnHAShX",
-			"calloutName": "警家",
+			"calloutName": "CT Spawn",
 			"map": "mirage",
 			"position": [
 					{
@@ -57,7 +57,7 @@
 	},
 	{
 			"id": "2V5ZhN5HO4UByADJOU9i",
-			"calloutName": "A1房檐",
+			"calloutName": "T Roof",
 			"map": "mirage",
 			"position": [
 					{
@@ -93,7 +93,7 @@
 	},
 	{
 			"id": "3w5ydUJTZW2w0dGJYFJP",
-			"calloutName": "B包点",
+			"calloutName": "A Site",
 			"map": "mirage",
 			"position": [
 					{
@@ -153,7 +153,7 @@
 	},
 	{
 			"id": "8Wr1CTi4TeUeQt22XMzz",
-			"calloutName": "匪二楼楼梯",
+			"calloutName": "Apps Ramp",
 			"map": "mirage",
 			"position": [
 					{
@@ -193,7 +193,7 @@
 	},
 	{
 			"id": "Eh6Lxgs3xaWosVWi4rDR",
-			"calloutName": "A二楼阳台",
+			"calloutName": "Balcony",
 			"map": "mirage",
 			"position": [
 					{
@@ -221,7 +221,7 @@
 	},
 	{
 			"id": "JnsfKftbR53ysAFaMZ7q",
-			"calloutName": "拱门",
+			"calloutName": "Connector",
 			"map": "mirage",
 			"position": [
 					{
@@ -257,7 +257,7 @@
 	},
 	{
 			"id": "KZp0iFhCxNSKrSKZewmq",
-			"calloutName": "超市",
+			"calloutName": "Market",
 			"map": "mirage",
 			"position": [
 					{
@@ -333,7 +333,7 @@
 	},
 	{
 			"id": "LItTMhx6EqyZBhFJv8Tk",
-			"calloutName": "CT楼梯",
+			"calloutName": "CT Stairs",
 			"map": "mirage",
 			"position": [
 					{
@@ -381,7 +381,7 @@
 	},
 	{
 			"id": "LnubPl6uMMUWmCgKbSrA",
-			"calloutName": "B小道",
+			"calloutName": "Short",
 			"map": "mirage",
 			"position": [
 					{
@@ -417,7 +417,7 @@
 	},
 	{
 			"id": "N5ZUVs4drkwbJmNfArrL",
-			"calloutName": "楼梯",
+			"calloutName": "Stairs",
 			"map": "mirage",
 			"position": [
 					{
@@ -461,7 +461,7 @@
 	},
 	{
 			"id": "NFkROv1Ikjqu3HdhxjXO",
-			"calloutName": "中路",
+			"calloutName": "Mid",
 			"map": "mirage",
 			"position": [
 					{
@@ -489,7 +489,7 @@
 	},
 	{
 			"id": "PvdQj3ILa0YxWZuC6Bfj",
-			"calloutName": "中远",
+			"calloutName": "Top Mid",
 			"map": "mirage",
 			"position": [
 					{
@@ -537,7 +537,7 @@
 	},
 	{
 			"id": "QMcqged7cnRUCJ5vt4Oc",
-			"calloutName": "白车",
+			"calloutName": "Van",
 			"map": "mirage",
 			"position": [
 					{
@@ -573,7 +573,7 @@
 	},
 	{
 			"id": "SPCmtL0OrythWPrScxiN",
-			"calloutName": "下水道",
+			"calloutName": "Underpass",
 			"map": "mirage",
 			"position": [
 					{
@@ -601,7 +601,7 @@
 	},
 	{
 			"id": "SPTNE0hAUurX42hCBNmZ",
-			"calloutName": "A二楼",
+			"calloutName": "Palace",
 			"map": "mirage",
 			"position": [
 					{
@@ -669,7 +669,7 @@
 	},
 	{
 			"id": "TKzeBnEJBSqeh7OwJbIl",
-			"calloutName": "板凳",
+			"calloutName": "Bench",
 			"map": "mirage",
 			"position": [
 					{
@@ -697,7 +697,7 @@
 	},
 	{
 			"id": "TU9wzxRJCHyzezMFvb4q",
-			"calloutName": "B二楼",
+			"calloutName": "B Apps",
 			"map": "mirage",
 			"position": [
 					{
@@ -757,7 +757,7 @@
 	},
 	{
 			"id": "V7WW0nvMTAOxfdOdhY9e",
-			"calloutName": "匪跳台",
+			"calloutName": "Tetris",
 			"map": "mirage",
 			"position": [
 					{
@@ -793,7 +793,7 @@
 	},
 	{
 			"id": "WMb2kEoWYt23m3SC6cwC",
-			"calloutName": "B连",
+			"calloutName": "Catwalk",
 			"map": "mirage",
 			"position": [
 					{
@@ -837,7 +837,7 @@
 	},
 	{
 			"id": "WtgfBx0WZihxVmFNbqzg",
-			"calloutName": "死角",
+			"calloutName": "Ninja",
 			"map": "mirage",
 			"position": [
 					{
@@ -869,7 +869,7 @@
 	},
 	{
 			"id": "X5MKx7aFiFEJmlhhMkWa",
-			"calloutName": "B包点",
+			"calloutName": "B Site",
 			"map": "mirage",
 			"position": [
 					{
@@ -897,7 +897,7 @@
 	},
 	{
 			"id": "ZD4fTxiKHiv4EbukCD6X",
-			"calloutName": "匪家",
+			"calloutName": "T Spawn",
 			"map": "mirage",
 			"position": [
 					{
@@ -957,7 +957,7 @@
 	},
 	{
 			"id": "ZoQtNtEHh6OcLRFHXZpV",
-			"calloutName": "A二楼下",
+			"calloutName": "Shadows",
 			"map": "mirage",
 			"position": [
 					{
@@ -1005,7 +1005,7 @@
 	},
 	{
 			"id": "aFhvraLCD4HWBxycMU1Y",
-			"calloutName": "黑屋",
+			"calloutName": "Ladder Room",
 			"map": "mirage",
 			"position": [
 					{
@@ -1105,7 +1105,7 @@
 	},
 	{
 			"id": "dkayWKXYIiyPhSfN1Gur",
-			"calloutName": "超市外",
+			"calloutName": "Outside Market",
 			"map": "mirage",
 			"position": [
 					{
@@ -1133,7 +1133,7 @@
 	},
 	{
 			"id": "dl5bXvOUelfbYTt9Ic6Y",
-			"calloutName": "板凳",
+			"calloutName": "Bench",
 			"map": "mirage",
 			"position": [
 					{
@@ -1161,7 +1161,7 @@
 	},
 	{
 			"id": "p8s1QH5PhJ9dPkyVx3Pn",
-			"calloutName": "匪家",
+			"calloutName": "T Spawn",
 			"map": "mirage",
 			"position": [
 					{
@@ -1209,7 +1209,7 @@
 	},
 	{
 			"id": "pCLsUx4fyERqUGoA5AS7",
-			"calloutName": "匪二楼",
+			"calloutName": "Back Alley",
 			"map": "mirage",
 			"position": [
 					{
@@ -1265,7 +1265,7 @@
 	},
 	{
 			"id": "qHn7XM80C1yD5htuznAN",
-			"calloutName": "VIP",
+			"calloutName": "Mid Window",
 			"map": "mirage",
 			"position": [
 					{
@@ -1301,7 +1301,7 @@
 	},
 	{
 			"id": "qOHa6z1wfRUHbTFv4m8O",
-			"calloutName": "A1斜坡",
+			"calloutName": "A Ramp",
 			"map": "mirage",
 			"position": [
 					{
@@ -1413,7 +1413,7 @@
 	},
 	{
 			"id": "vcuGcQG5ml7uM03ofy3s",
-			"calloutName": "匪家",
+			"calloutName": "T Spawn",
 			"map": "mirage",
 			"position": [
 					{

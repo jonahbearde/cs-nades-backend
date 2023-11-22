@@ -1,354 +1,690 @@
 [
-	{
-			"id": "4uw7PlF79Pbue5MM2xlK",
-			"calloutName": "A Default",
-			"map": "overpass",
-			"position": {
-					"x": 396.1723076923077,
-					"y": 240.20923076923074
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "7mGUX3IP8wiEWlQztiYv",
-			"calloutName": "Pipe",
-			"map": "overpass",
-			"position": {
-					"x": 756.9353846153845,
-					"y": 523.7784615384614
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "8ZM7LS5fcDR3LKMWRAD2",
-			"calloutName": "Pillar",
-			"map": "overpass",
-			"position": {
-					"x": 719.1261538461539,
-					"y": 352.0615384615385
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "9hCEaJllhNLaTo1wfS3s",
-			"calloutName": "Dice",
-			"map": "overpass",
-			"position": {
-					"x": 355.21230769230766,
-					"y": 226.0307692307692
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "F5piVPoPXRv1QHQuCAlK",
-			"calloutName": "Top Connector",
-			"map": "overpass",
-			"position": {
-					"x": 452.88615384615383,
-					"y": 580.4923076923076
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "IxJrpCpVB1zqUc6oWTb6",
-			"calloutName": "Sandbags",
-			"map": "overpass",
-			"position": {
-					"x": 690.7692307692308,
-					"y": 418.2276923076922
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "Jf3JpoLHrerY2Inx7coz",
-			"calloutName": "Lower Tunnels",
-			"map": "overpass",
-			"position": {
-					"x": 536.3815384615385,
-					"y": 594.6707692307692
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "JqknMntZBEvNlQ54bd1s",
-			"calloutName": "Squeaky",
-			"map": "overpass",
-			"position": {
-					"x": 550.56,
-					"y": 501.7230769230769
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "JzeQ8cxAYH7qIR85QZul",
-			"calloutName": "Van",
-			"map": "overpass",
-			"position": {
-					"x": 378.8430769230769,
-					"y": 178.76923076923077
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "N9rX6GUvPyXbPzbSqywn",
-			"calloutName": "Toilets",
-			"map": "overpass",
-			"position": {
-					"x": 367.81538461538463,
-					"y": 352.0615384615385
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "NRNKLmtD3oeBszsi8WU4",
-			"calloutName": "Party",
-			"map": "overpass",
-			"position": {
-					"x": 290.6215384615385,
-					"y": 660.8369230769231
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "OrS8cAo6AOEXKsWeZOJ2",
-			"calloutName": "Flowers",
-			"map": "overpass",
-			"position": {
-					"x": 416.65230769230766,
-					"y": 306.3753846153846
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "PWl9rBLn8kKQVxWofzAi",
-			"calloutName": "Monster",
-			"map": "overpass",
-			"position": {
-					"x": 772.6892307692307,
-					"y": 433.9815384615384
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "S28AoNa0cLSKUKxAkAGW",
-			"calloutName": "Bank",
-			"map": "overpass",
-			"position": {
-					"x": 405.6246153846153,
-					"y": 118.90461538461538
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "S4zMIIZx5fFdrhM8NH3U",
-			"calloutName": "Pit",
-			"map": "overpass",
-			"position": {
-					"x": 663.9876923076923,
-					"y": 276.4430769230769
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "ThRBRQd4la0LrZeY8DxM",
-			"calloutName": "Truck",
-			"map": "overpass",
-			"position": {
-					"x": 474.94153846153847,
-					"y": 232.3323076923077
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "Vj6LlTXMR5kOjHLg5UTg",
-			"calloutName": "Long",
-			"map": "overpass",
-			"position": {
-					"x": 282.7446153846154,
-					"y": 276.4430769230769
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "WyoOjPV3QooFzRHi95Io",
-			"calloutName": "Divider",
-			"map": "overpass",
-			"position": {
-					"x": 445.0092307692308,
-					"y": 441.85846153846154
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "Y3BD71RDCEulYKPV84GQ",
-			"calloutName": "Pipe",
-			"map": "overpass",
-			"position": {
-					"x": 663.9876923076923,
-					"y": 519.0523076923076
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "YLx9MMSJIgQu7CFceWWO",
-			"calloutName": "Mid Stairs",
-			"map": "overpass",
-			"position": {
-					"x": 364.6646153846154,
-					"y": 652.96
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "aEUjXQAYx7hgM3zAymKP",
-			"calloutName": "ABC",
-			"map": "overpass",
-			"position": {
-					"x": 514.3261538461538,
-					"y": 323.7046153846154
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "am3pS9JxjbU3hQ1AXGsD",
-			"calloutName": "B Site",
-			"map": "overpass",
-			"position": {
-					"x": 659.2615384615384,
-					"y": 330.0061538461538
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "crlQrZCt3CsWiNFzqqx3",
-			"calloutName": "Toilets",
-			"map": "overpass",
-			"position": {
-					"x": 367.81538461538463,
-					"y": 530.0799999999999
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "egUwQvwNUXqk0P3FJiCy",
-			"calloutName": "A Stairs",
-			"map": "overpass",
-			"position": {
-					"x": 496.996923076923,
-					"y": 167.74153846153843
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "jNua5kYxGtYMfGwqNlBu",
-			"calloutName": "Bridge",
-			"map": "overpass",
-			"position": {
-					"x": 626.1784615384614,
-					"y": 378.8430769230769
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "mrW3BiHW4gQVBElbsmAW",
-			"calloutName": "Walkway",
-			"map": "overpass",
-			"position": {
-					"x": 545.8338461538461,
-					"y": 370.9661538461538
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "nZv4hA9mFI0NpATTa6mz",
-			"calloutName": "Monster",
-			"map": "overpass",
-			"position": {
-					"x": 767.963076923077,
-					"y": 364.6646153846154
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "oOfpjqwTkc3FH3J4vJMb",
-			"calloutName": "Heaven",
-			"map": "overpass",
-			"position": {
-					"x": 550.56,
-					"y": 248.08615384615385
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "rcOvMiCmRsnKQbzty5wH",
-			"calloutName": "Ramp",
-			"map": "overpass",
-			"position": {
-					"x": 504.87384615384616,
-					"y": 747.4830769230769
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "rvDyee3SQEyW5rVT3I4l",
-			"calloutName": "Barrels",
-			"map": "overpass",
-			"position": {
-					"x": 717.5507692307692,
-					"y": 300.0738461538461
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "yYPaq3UcNaSbQa8cxUpH",
-			"calloutName": "Barrels",
-			"map": "overpass",
-			"position": {
-					"x": 708.0984615384615,
-					"y": 260.68923076923073
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "z6jDfKKAKtrenOq6hTwH",
-			"calloutName": "A Site",
-			"map": "overpass",
-			"position": {
-					"x": 433.9815384615384,
-					"y": 210.27692307692305
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	}
+  {
+    "id": "4uw7PlF79Pbue5MM2xlK",
+    "calloutName": "A Default",
+    "map": "overpass",
+    "position": {
+      "x": 396.1723076923077,
+      "y": 240.20923076923074
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "7mGUX3IP8wiEWlQztiYv",
+    "calloutName": "Pipe",
+    "map": "overpass",
+    "position": {
+      "x": 756.9353846153845,
+      "y": 523.7784615384614
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "8ZM7LS5fcDR3LKMWRAD2",
+    "calloutName": "Pillar",
+    "map": "overpass",
+    "position": {
+      "x": 719.1261538461539,
+      "y": 352.0615384615385
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "9hCEaJllhNLaTo1wfS3s",
+    "calloutName": "Dice",
+    "map": "overpass",
+    "position": {
+      "x": 355.21230769230766,
+      "y": 226.0307692307692
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "F5piVPoPXRv1QHQuCAlK",
+    "calloutName": "Top Connector",
+    "map": "overpass",
+    "position": {
+      "x": 452.88615384615383,
+      "y": 580.4923076923076
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "IxJrpCpVB1zqUc6oWTb6",
+    "calloutName": "Sandbags",
+    "map": "overpass",
+    "position": {
+      "x": 690.7692307692308,
+      "y": 418.2276923076922
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Jf3JpoLHrerY2Inx7coz",
+    "calloutName": "Lower Tunnels",
+    "map": "overpass",
+    "position": {
+      "x": 536.3815384615385,
+      "y": 594.6707692307692
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "JqknMntZBEvNlQ54bd1s",
+    "calloutName": "Squeaky",
+    "map": "overpass",
+    "position": {
+      "x": 550.56,
+      "y": 501.7230769230769
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "JzeQ8cxAYH7qIR85QZul",
+    "calloutName": "Van",
+    "map": "overpass",
+    "position": {
+      "x": 378.8430769230769,
+      "y": 178.76923076923077
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "N9rX6GUvPyXbPzbSqywn",
+    "calloutName": "Toilets",
+    "map": "overpass",
+    "position": {
+      "x": 367.81538461538463,
+      "y": 352.0615384615385
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "NRNKLmtD3oeBszsi8WU4",
+    "calloutName": "Party",
+    "map": "overpass",
+    "position": {
+      "x": 290.6215384615385,
+      "y": 660.8369230769231
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "OrS8cAo6AOEXKsWeZOJ2",
+    "calloutName": "Flowers",
+    "map": "overpass",
+    "position": {
+      "x": 416.65230769230766,
+      "y": 306.3753846153846
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "PWl9rBLn8kKQVxWofzAi",
+    "calloutName": "Monster",
+    "map": "overpass",
+    "position": {
+      "x": 772.6892307692307,
+      "y": 433.9815384615384
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "S28AoNa0cLSKUKxAkAGW",
+    "calloutName": "Bank",
+    "map": "overpass",
+    "position": {
+      "x": 405.6246153846153,
+      "y": 118.90461538461538
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "S4zMIIZx5fFdrhM8NH3U",
+    "calloutName": "Pit",
+    "map": "overpass",
+    "position": {
+      "x": 663.9876923076923,
+      "y": 276.4430769230769
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "ThRBRQd4la0LrZeY8DxM",
+    "calloutName": "Truck",
+    "map": "overpass",
+    "position": {
+      "x": 474.94153846153847,
+      "y": 232.3323076923077
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Vj6LlTXMR5kOjHLg5UTg",
+    "calloutName": "Long",
+    "map": "overpass",
+    "position": {
+      "x": 282.7446153846154,
+      "y": 276.4430769230769
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "WyoOjPV3QooFzRHi95Io",
+    "calloutName": "Divider",
+    "map": "overpass",
+    "position": {
+      "x": 445.0092307692308,
+      "y": 441.85846153846154
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Y3BD71RDCEulYKPV84GQ",
+    "calloutName": "Pipe",
+    "map": "overpass",
+    "position": {
+      "x": 663.9876923076923,
+      "y": 519.0523076923076
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "YLx9MMSJIgQu7CFceWWO",
+    "calloutName": "Mid Stairs",
+    "map": "overpass",
+    "position": {
+      "x": 364.6646153846154,
+      "y": 652.96
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "aEUjXQAYx7hgM3zAymKP",
+    "calloutName": "ABC",
+    "map": "overpass",
+    "position": {
+      "x": 514.3261538461538,
+      "y": 323.7046153846154
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "am3pS9JxjbU3hQ1AXGsD",
+    "calloutName": "B Site",
+    "map": "overpass",
+    "position": {
+      "x": 659.2615384615384,
+      "y": 330.0061538461538
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "crlQrZCt3CsWiNFzqqx3",
+    "calloutName": "Toilets",
+    "map": "overpass",
+    "position": {
+      "x": 367.81538461538463,
+      "y": 530.0799999999999
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "egUwQvwNUXqk0P3FJiCy",
+    "calloutName": "A Stairs",
+    "map": "overpass",
+    "position": {
+      "x": 496.996923076923,
+      "y": 167.74153846153843
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "jNua5kYxGtYMfGwqNlBu",
+    "calloutName": "Bridge",
+    "map": "overpass",
+    "position": {
+      "x": 626.1784615384614,
+      "y": 378.8430769230769
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "mrW3BiHW4gQVBElbsmAW",
+    "calloutName": "Walkway",
+    "map": "overpass",
+    "position": {
+      "x": 545.8338461538461,
+      "y": 370.9661538461538
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "nZv4hA9mFI0NpATTa6mz",
+    "calloutName": "Monster",
+    "map": "overpass",
+    "position": {
+      "x": 767.963076923077,
+      "y": 364.6646153846154
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "oOfpjqwTkc3FH3J4vJMb",
+    "calloutName": "Heaven",
+    "map": "overpass",
+    "position": {
+      "x": 550.56,
+      "y": 248.08615384615385
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "rcOvMiCmRsnKQbzty5wH",
+    "calloutName": "Ramp",
+    "map": "overpass",
+    "position": {
+      "x": 504.87384615384616,
+      "y": 747.4830769230769
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "rvDyee3SQEyW5rVT3I4l",
+    "calloutName": "Barrels",
+    "map": "overpass",
+    "position": {
+      "x": 717.5507692307692,
+      "y": 300.0738461538461
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "yYPaq3UcNaSbQa8cxUpH",
+    "calloutName": "Barrels",
+    "map": "overpass",
+    "position": {
+      "x": 708.0984615384615,
+      "y": 260.68923076923073
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "z6jDfKKAKtrenOq6hTwH",
+    "calloutName": "A Site",
+    "map": "overpass",
+    "position": {
+      "x": 433.9815384615384,
+      "y": 210.27692307692305
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "EQsd3gsZkvff6A2A3o4v",
+    "calloutName": "Tracks",
+    "map": "overpass",
+    "position": { "x": 760.0861538461538, "y": 485.96923076923076 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "HGBuMJY8HfDlcN0t4igQ",
+    "calloutName": "Mid",
+    "map": "overpass",
+    "position": { "x": 361.5138461538461, "y": 583.6430769230768 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "SMUkzlgRq4154oGqkSUQ",
+    "calloutName": "Long",
+    "map": "overpass",
+    "position": { "x": 185.07076923076923, "y": 684.4676923076923 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "TIB3RsCyYn5P1NvBZ1i1",
+    "calloutName": "A Site",
+    "map": "overpass",
+    "position": { "x": 421.37846153846147, "y": 215.0030769230769 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "WQJRgSNPdHzRuIEUUk8A",
+    "calloutName": "Lower Tunnels",
+    "map": "overpass",
+    "position": { "x": 534.8061538461537, "y": 533.2307692307692 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "YUUQGiA01c1V0E5vdn7A",
+    "calloutName": "Fountain",
+    "map": "overpass",
+    "position": { "x": 443.43384615384616, "y": 708.0984615384616 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "hFf14h6HMvo22jk9i0NG",
+    "calloutName": "Water",
+    "map": "overpass",
+    "position": { "x": 607.2738461538461, "y": 484.3938461538461 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "lZHGGncGADcyWQuqctCY",
+    "calloutName": "Canal",
+    "map": "overpass",
+    "position": { "x": 775.84, "y": 366.24 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "mDKTQjM42kUezX2iv3dp",
+    "calloutName": "B Site",
+    "map": "overpass",
+    "position": { "x": 678.1661538461539, "y": 348.91076923076923 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "y7qnCUs7MEil4GpW8zC4",
+    "calloutName": "Long",
+    "map": "overpass",
+    "position": { "x": 311.1015384615385, "y": 221.30461538461537 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "zZbpO8SeBcfW2gJJRrqd",
+    "calloutName": "Flowers",
+    "map": "overpass",
+    "position": { "x": 393.0215384615384, "y": 281.16923076923075 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "2TMyjlh5P7PNjgi5cybU",
+    "calloutName": "B Site",
+    "map": "overpass",
+    "position": { "x": 659.2615384615384, "y": 330.0061538461538 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "8ooc7DcTbowAVpB4cg0D",
+    "calloutName": "Divider",
+    "map": "overpass",
+    "position": { "x": 445.0092307692308, "y": 441.85846153846154 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "9tfz0WWxXyxElyF0MBw0",
+    "calloutName": "Pipe",
+    "map": "overpass",
+    "position": { "x": 660.8369230769231, "y": 519.0523076923076 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "CZeYbVlJjpZDvdLPZNf7",
+    "calloutName": "Party",
+    "map": "overpass",
+    "position": { "x": 298.49846153846147, "y": 630.9046153846153 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Ej8z1wpPaeoyGUDqX6OR",
+    "calloutName": "Monster",
+    "map": "overpass",
+    "position": { "x": 777.4153846153846, "y": 383.5692307692308 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "FzB8tV9GSdSHtE3HdNTd",
+    "calloutName": "Boost",
+    "map": "overpass",
+    "position": { "x": 560.0123076923076, "y": 413.5015384615385 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "GwQRlAMJywSW5JZ7XL8y",
+    "calloutName": "Sandbags",
+    "map": "overpass",
+    "position": { "x": 690.7692307692308, "y": 429.2553846153846 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "LCsWs688noGIX4k6Baic",
+    "calloutName": "ABC",
+    "map": "overpass",
+    "position": { "x": 514.3261538461538, "y": 318.97846153846154 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "OcUQ4H6LkgiYOhmg3Wav",
+    "calloutName": "Heaven",
+    "map": "overpass",
+    "position": { "x": 555.2861538461538, "y": 255.96307692307695 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "PE0bVKQYT4I0VLtWRS4p",
+    "calloutName": "Barrels",
+    "map": "overpass",
+    "position": { "x": 708.0984615384616, "y": 271.716923076923 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "RQGbi6LMG6QwfqoEKu1n",
+    "calloutName": "Truck",
+    "map": "overpass",
+    "position": { "x": 474.94153846153847, "y": 232.3323076923077 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "TOdTBHFSZCpLVSMIW6YI",
+    "calloutName": "Lower Tunnels",
+    "map": "overpass",
+    "position": { "x": 504.87384615384616, "y": 533.2307692307692 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Ug0nlG0tQthRWW8pRrpz",
+    "calloutName": "Ramp",
+    "map": "overpass",
+    "position": { "x": 508.0246153846153, "y": 783.7169230769231 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "cyBQa9tLOTahAhGo0bfv",
+    "calloutName": "Headshot",
+    "map": "overpass",
+    "position": { "x": 659.2615384615385, "y": 271.716923076923 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "dR83d7pAzm9uIqHaQUjk",
+    "calloutName": "Pit",
+    "map": "overpass",
+    "position": { "x": 613.5753846153847, "y": 345.76 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "gKXnyW1Ywuauxwr03t5q",
+    "calloutName": "Long Tree",
+    "map": "overpass",
+    "position": { "x": 140.96, "y": 585.2184615384615 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "tML1jhkv0zGipW5p8269",
+    "calloutName": "A Default",
+    "map": "overpass",
+    "position": { "x": 393.02153846153846, "y": 218.15384615384616 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "zNzfZOf4C6NSh0Va5REU",
+    "calloutName": "Pillar",
+    "map": "overpass",
+    "position": { "x": 722.2769230769231, "y": 348.91076923076923 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "zYove9knAZLSYibKcI4m",
+    "calloutName": "Playground",
+    "map": "overpass",
+    "position": { "x": 452.8861538461538, "y": 813.6492307692306 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "03oHXv3HAuAGjzSa0ZQo",
+    "calloutName": "Pipe",
+    "map": "overpass",
+    "position": { "x": 648.2338461538461, "y": 519.0523076923076 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "2rAvksFfBhrEcG33dN4M",
+    "calloutName": "Boost",
+    "map": "overpass",
+    "position": { "x": 552.1353846153845, "y": 399.32307692307694 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "3YUWpMc2LAiCnEH9VcuG",
+    "calloutName": "Squeaky",
+    "map": "overpass",
+    "position": { "x": 548.9846153846153, "y": 495.4215384615384 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "4cgsLO3GJhp2cu8xiRPp",
+    "calloutName": "A Default",
+    "map": "overpass",
+    "position": { "x": 394.5969230769231, "y": 216.5784615384615 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "6azVgZCP5txhvIMgGaRE",
+    "calloutName": "Heaven",
+    "map": "overpass",
+    "position": { "x": 553.7107692307692, "y": 254.38769230769228 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "71VlTm55RJoRyEdKl5ts",
+    "calloutName": "Truck",
+    "map": "overpass",
+    "position": { "x": 482.8184615384615, "y": 224.45538461538462 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "OT1z2yGXugtV5EGVTIZn",
+    "calloutName": "Playground",
+    "map": "overpass",
+    "position": { "x": 457.6123076923077, "y": 821.5261538461539 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Oy4K1Its9XdJU0wNGqdq",
+    "calloutName": "Barrels",
+    "map": "overpass",
+    "position": { "x": 708.0984615384615, "y": 265.4153846153846 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "TH8JLdTuWshddg0uy8UP",
+    "calloutName": "Walkway",
+    "map": "overpass",
+    "position": { "x": 515.9015384615384, "y": 366.24 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "vlaMEL9ONqnVcrgzQgOy",
+    "calloutName": "B Site",
+    "map": "overpass",
+    "position": { "x": 657.6861538461537, "y": 333.1569230769231 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "y0oKu3InGOeDQS6UtAtU",
+    "calloutName": "Headshot",
+    "map": "overpass",
+    "position": { "x": 665.5630769230769, "y": 289.0461538461538 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "y31EFqq2grM88g5dDBTu",
+    "calloutName": "Ramp",
+    "map": "overpass",
+    "position": { "x": 509.5999999999999, "y": 786.8676923076923 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  }
 ]

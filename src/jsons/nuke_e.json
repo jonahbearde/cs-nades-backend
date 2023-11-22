@@ -1,255 +1,431 @@
 [
-	{
-			"id": "0u3CyI8UNjOwAxbqUHsl",
-			"calloutName": "T Red",
-			"map": "nuke",
-			"position": {
-					"x": 607.2738461538462,
-					"y": 909.747692307692
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "0v6nOIDs60oTpiu0bwpa",
-			"calloutName": "Outside Heaven",
-			"map": "nuke",
-			"position": {
-					"x": 670.2892307692308,
-					"y": 654.5353846153845
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "14S7zIWL3OEkt5JGcAQe",
-			"calloutName": "Secret",
-			"map": "nuke",
-			"position": {
-					"x": 692.3446153846152,
-					"y": 936.5292307692307
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "1s2YmP96LTd7ZnyG5aWn",
-			"calloutName": "Silo",
-			"map": "nuke",
-			"position": {
-					"x": 500.1476923076923,
-					"y": 819.9507692307692
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "1z9pRBEGUcPgBxSXR2dp",
-			"calloutName": "Outside Secret",
-			"map": "nuke",
-			"position": {
-					"x": 649.8092307692306,
-					"y": 909.747692307692
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "4bgnxPo0kizfwmEphqZ1",
-			"calloutName": "Big Box",
-			"map": "nuke",
-			"position": {
-					"x": 533.2307692307692,
-					"y": 534.8061538461537
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "5B7CNb6Al6KSRcyAvUCE",
-			"calloutName": "Garage",
-			"map": "nuke",
-			"position": {
-					"x": 698.6461538461539,
-					"y": 870.363076923077
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "7do7Rwn72FbDYOffHXwo",
-			"calloutName": "Locker",
-			"map": "nuke",
-			"position": {
-					"x": 645.0830769230768,
-					"y": 708.0984615384615
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "9nwStphednAWmW6ikJeS",
-			"calloutName": "Heaven",
-			"map": "nuke",
-			"position": {
-					"x": 624.6030769230769,
-					"y": 637.2061538461538
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "ATZGElSQpt6TaeFRto4V",
-			"calloutName": "Under Silo",
-			"map": "nuke",
-			"position": {
-					"x": 484.39384615384597,
-					"y": 900.2953846153845
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "EeaUQN3iQBTZTrHVCQiV",
-			"calloutName": "Trophy",
-			"map": "nuke",
-			"position": {
-					"x": 498.5723076923076,
-					"y": 621.4523076923076
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "Gm7lQtGHhK8pe5bV5yPs",
-			"calloutName": "Dark",
-			"map": "nuke",
-			"position": {
-					"x": 333.156923076923,
-					"y": 273.29230769230765
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "NuMa3fWGyC22Ct4wRdn9",
-			"calloutName": "Main",
-			"map": "nuke",
-			"position": {
-					"x": 615.150769230769,
-					"y": 845.156923076923
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "OLeNvEeHMhmIlTrwKdIX",
-			"calloutName": "B Window",
-			"map": "nuke",
-			"position": {
-					"x": 372.54153846153844,
-					"y": 285.89538461538456
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "Qt57VTaXmPVwOeZEFuU7",
-			"calloutName": "Red",
-			"map": "nuke",
-			"position": {
-					"x": 566.313846153846,
-					"y": 870.363076923077
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "XIvmjTJvqqZDWY3Zi5Kd",
-			"calloutName": "Control",
-			"map": "nuke",
-			"position": {
-					"x": 500.1476923076923,
-					"y": 571.04
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "YZNEAo7YD2yEf0Ye2viX",
-			"calloutName": "A Site",
-			"map": "nuke",
-			"position": {
-					"x": 578.916923076923,
-					"y": 668.7138461538461
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "jvWXixoyQhGDCIugWdTI",
-			"calloutName": "T Red",
-			"map": "nuke",
-			"position": {
-					"x": 530.0799999999999,
-					"y": 900.2953846153844
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "lkMIxj20h8wEsHqqVU3r",
-			"calloutName": "CT Red",
-			"map": "nuke",
-			"position": {
-					"x": 656.1107692307689,
-					"y": 856.184615384615
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "qqdGtwfGPi9d6LdZAYos",
-			"calloutName": "Vent",
-			"map": "nuke",
-			"position": {
-					"x": 544.2584615384615,
-					"y": 778.9907692307692
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "rz6CoopRxmEHEym81klF",
-			"calloutName": "Hut",
-			"map": "nuke",
-			"position": {
-					"x": 531.6553846153846,
-					"y": 725.4276923076922
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "xnxWPPyf3rNVLYqKSP64",
-			"calloutName": "Door",
-			"map": "nuke",
-			"position": {
-					"x": 492.27076923076913,
-					"y": 769.5384615384614
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "z85SXpTJUa4ar6sJLtLF",
-			"calloutName": "Main",
-			"map": "nuke",
-			"position": {
-					"x": 569.4646153846152,
-					"y": 818.3753846153845
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	}
+  {
+    "id": "0u3CyI8UNjOwAxbqUHsl",
+    "calloutName": "T Red",
+    "map": "nuke",
+    "position": {
+      "x": 607.2738461538462,
+      "y": 909.747692307692
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "0v6nOIDs60oTpiu0bwpa",
+    "calloutName": "Outside Heaven",
+    "map": "nuke",
+    "position": {
+      "x": 670.2892307692308,
+      "y": 654.5353846153845
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "14S7zIWL3OEkt5JGcAQe",
+    "calloutName": "Secret",
+    "map": "nuke",
+    "position": {
+      "x": 692.3446153846152,
+      "y": 936.5292307692307
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "1s2YmP96LTd7ZnyG5aWn",
+    "calloutName": "Silo",
+    "map": "nuke",
+    "position": {
+      "x": 500.1476923076923,
+      "y": 819.9507692307692
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "1z9pRBEGUcPgBxSXR2dp",
+    "calloutName": "Outside Secret",
+    "map": "nuke",
+    "position": {
+      "x": 649.8092307692306,
+      "y": 909.747692307692
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "4bgnxPo0kizfwmEphqZ1",
+    "calloutName": "Big Box",
+    "map": "nuke",
+    "position": {
+      "x": 533.2307692307692,
+      "y": 534.8061538461537
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "5B7CNb6Al6KSRcyAvUCE",
+    "calloutName": "Garage",
+    "map": "nuke",
+    "position": {
+      "x": 698.6461538461539,
+      "y": 870.363076923077
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "7do7Rwn72FbDYOffHXwo",
+    "calloutName": "Locker",
+    "map": "nuke",
+    "position": {
+      "x": 645.0830769230768,
+      "y": 708.0984615384615
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "9nwStphednAWmW6ikJeS",
+    "calloutName": "Heaven",
+    "map": "nuke",
+    "position": {
+      "x": 624.6030769230769,
+      "y": 637.2061538461538
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "ATZGElSQpt6TaeFRto4V",
+    "calloutName": "Under Silo",
+    "map": "nuke",
+    "position": {
+      "x": 484.39384615384597,
+      "y": 900.2953846153845
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "EeaUQN3iQBTZTrHVCQiV",
+    "calloutName": "Trophy",
+    "map": "nuke",
+    "position": {
+      "x": 498.5723076923076,
+      "y": 621.4523076923076
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Gm7lQtGHhK8pe5bV5yPs",
+    "calloutName": "Dark",
+    "map": "nuke",
+    "position": {
+      "x": 333.156923076923,
+      "y": 273.29230769230765
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "NuMa3fWGyC22Ct4wRdn9",
+    "calloutName": "Main",
+    "map": "nuke",
+    "position": {
+      "x": 615.150769230769,
+      "y": 845.156923076923
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "OLeNvEeHMhmIlTrwKdIX",
+    "calloutName": "B Window",
+    "map": "nuke",
+    "position": {
+      "x": 372.54153846153844,
+      "y": 285.89538461538456
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Qt57VTaXmPVwOeZEFuU7",
+    "calloutName": "Red",
+    "map": "nuke",
+    "position": {
+      "x": 566.313846153846,
+      "y": 870.363076923077
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "XIvmjTJvqqZDWY3Zi5Kd",
+    "calloutName": "Control",
+    "map": "nuke",
+    "position": {
+      "x": 500.1476923076923,
+      "y": 571.04
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "YZNEAo7YD2yEf0Ye2viX",
+    "calloutName": "A Site",
+    "map": "nuke",
+    "position": {
+      "x": 578.916923076923,
+      "y": 668.7138461538461
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "jvWXixoyQhGDCIugWdTI",
+    "calloutName": "T Red",
+    "map": "nuke",
+    "position": {
+      "x": 530.0799999999999,
+      "y": 900.2953846153844
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "lkMIxj20h8wEsHqqVU3r",
+    "calloutName": "CT Red",
+    "map": "nuke",
+    "position": {
+      "x": 656.1107692307689,
+      "y": 856.184615384615
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "qqdGtwfGPi9d6LdZAYos",
+    "calloutName": "Vent",
+    "map": "nuke",
+    "position": {
+      "x": 544.2584615384615,
+      "y": 778.9907692307692
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "rz6CoopRxmEHEym81klF",
+    "calloutName": "Hut",
+    "map": "nuke",
+    "position": {
+      "x": 531.6553846153846,
+      "y": 725.4276923076922
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "xnxWPPyf3rNVLYqKSP64",
+    "calloutName": "Door",
+    "map": "nuke",
+    "position": {
+      "x": 492.27076923076913,
+      "y": 769.5384615384614
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "z85SXpTJUa4ar6sJLtLF",
+    "calloutName": "Main",
+    "map": "nuke",
+    "position": {
+      "x": 569.4646153846152,
+      "y": 818.3753846153845
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "0Dt9ERfFsYa1o3sbf6Ko",
+    "calloutName": "Ramp",
+    "map": "nuke",
+    "position": { "x": 566.313846153846, "y": 542.6830769230769 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "BBaTjD4gGGtRcxS4jAR9",
+    "calloutName": "Door",
+    "map": "nuke",
+    "position": { "x": 493.84615384615375, "y": 767.963076923077 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Eu07uOg6IEnYghVyIsIl",
+    "calloutName": "Lobby",
+    "map": "nuke",
+    "position": { "x": 489.12, "y": 711.2492307692307 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "G8xgKB9LIBB2ydb9zGyL",
+    "calloutName": "Main",
+    "map": "nuke",
+    "position": { "x": 571.04, "y": 815.2246153846154 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "NKkssrSS1X7lEQwqo3VN",
+    "calloutName": "Outside",
+    "map": "nuke",
+    "position": { "x": 619.876923076923, "y": 878.2399999999999 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "S3RHuQ8TD8p8XwS2BY6A",
+    "calloutName": "Trophy",
+    "map": "nuke",
+    "position": { "x": 493.84615384615375, "y": 615.1507692307691 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "aRkL4mNk8Xhk3OJdEhKo",
+    "calloutName": "A Site",
+    "map": "nuke",
+    "position": { "x": 567.8892307692307, "y": 714.4000000000001 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "0dHXxZQoSNcHS7nYsLFf",
+    "calloutName": "Secret",
+    "map": "nuke",
+    "position": { "x": 681.3169230769231, "y": 933.3784615384615 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "2OBZvat2a5c1EHBaQzjx",
+    "calloutName": "Dark",
+    "map": "nuke",
+    "position": { "x": 344.18461538461526, "y": 270.1415384615384 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "7TmZBMFjQ5EJrVGa0yVk",
+    "calloutName": "Under Silo",
+    "map": "nuke",
+    "position": { "x": 489.12, "y": 900.2953846153846 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "JD3L70EKiAe1TPtFdM0Y",
+    "calloutName": "Vent",
+    "map": "nuke",
+    "position": { "x": 533.2307692307692, "y": 780.5661538461537 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Wr6v6dlNfQ4yuRzVtrXQ",
+    "calloutName": "T Red",
+    "map": "nuke",
+    "position": { "x": 597.8215384615384, "y": 905.0215384615383 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "h2NwWTH0MR7J4s8pryIF",
+    "calloutName": "Heaven",
+    "map": "nuke",
+    "position": { "x": 630.9046153846152, "y": 637.2061538461538 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "jdefbi5BrE6VWEbJyGI2",
+    "calloutName": "CT Vent",
+    "map": "nuke",
+    "position": { "x": 605.6984615384614, "y": 778.9907692307693 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "nqTOJMWwljcqZ8kIyDwd",
+    "calloutName": "A Site",
+    "map": "nuke",
+    "position": { "x": 578.916923076923, "y": 665.5630769230769 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "q6rqJnntfuYyRmCUdDDd",
+    "calloutName": "Trophy",
+    "map": "nuke",
+    "position": { "x": 490.69538461538457, "y": 632.4799999999999 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "wgXlv97ZNt7tMlnx6I5M",
+    "calloutName": "Hut",
+    "map": "nuke",
+    "position": { "x": 533.2307692307692, "y": 733.3046153846154 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "CHhvUVcWEegZYucwJWK5",
+    "calloutName": "Garage",
+    "map": "nuke",
+    "position": { "x": 708.0984615384615, "y": 853.0338461538462 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "LOtaAeItQ1yXmmcVk1P5",
+    "calloutName": "Heaven",
+    "map": "nuke",
+    "position": { "x": 637.2061538461538, "y": 634.0553846153845 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "jngBWa3VNASawLswatbp",
+    "calloutName": "Silo",
+    "map": "nuke",
+    "position": { "x": 482.8184615384615, "y": 807.3476923076922 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "pOivY9TeuXnK5BuJ89BP",
+    "calloutName": "Ramp",
+    "map": "nuke",
+    "position": { "x": 533.2307692307692, "y": 528.5046153846152 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "w3rnzu1lmVWgfu3goFZl",
+    "calloutName": "Trophy",
+    "map": "nuke",
+    "position": { "x": 495.4215384615384, "y": 623.0276923076922 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  }
 ]

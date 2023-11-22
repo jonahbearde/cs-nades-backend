@@ -1,453 +1,877 @@
 [
-	{
-			"id": "0HM2Er7MP1uKLYNZPIrf",
-			"calloutName": "Catwalk",
-			"map": "mirage",
-			"position": {
-					"x": 509.5999999999999,
-					"y": 411.92615384615385
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "0Q9fMxPU0AoG1j65CO8x",
-			"calloutName": "Stairs",
-			"map": "mirage",
-			"position": {
-					"x": 543.5076923076922,
-					"y": 666.3876923076922
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "0VFBuokSWYQjjjXTav5M",
-			"calloutName": "Short",
-			"map": "mirage",
-			"position": {
-					"x": 463.91384615384607,
-					"y": 314.2523076923076
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "47HL7z85yKu2HBCsS0FQ",
-			"calloutName": "A Ramp",
-			"map": "mirage",
-			"position": {
-					"x": 695.4953846153846,
-					"y": 651.3846153846154
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "4mpjCDL3EkDnETlWwFjm",
-			"calloutName": "Tetris",
-			"map": "mirage",
-			"position": {
-					"x": 481.24307692307684,
-					"y": 775.84
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "4pP7oNsKq0hSWWsW8U7G",
-			"calloutName": "Bottom Mid",
-			"map": "mirage",
-			"position": {
-					"x": 460.76307692307694,
-					"y": 465.4892307692307
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "5b5x7L4m5sPS1wZQBCQw",
-			"calloutName": "B Plat",
-			"map": "mirage",
-			"position": {
-					"x": 203.9753846153846,
-					"y": 155.13846153846154
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "6wlfWeSnFAPr95auWZPj",
-			"calloutName": "A Site",
-			"map": "mirage",
-			"position": {
-					"x": 552.1353846153845,
-					"y": 772.6892307692307
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "7BjFSdL29zgNIddIyOXP",
-			"calloutName": "Mid Window",
-			"map": "mirage",
-			"position": {
-					"x": 381.2430769230768,
-					"y": 458.436923076923
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "9HoPdYXTmxn2I8xoIUMp",
-			"calloutName": "A Default",
-			"map": "mirage",
-			"position": {
-					"x": 602.5476923076922,
-					"y": 791.5938461538461
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "E0noFTp0BgQjG6ylGC6a",
-			"calloutName": "Short",
-			"map": "mirage",
-			"position": {
-					"x": 394.5969230769231,
-					"y": 279.59384615384613
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "EBArCJZJTmt6VsnhqPrT",
-			"calloutName": "Tetris",
-			"map": "mirage",
-			"position": {
-					"x": 605.6984615384615,
-					"y": 646.6584615384616
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "ETsR8lz7g3n21uWKNzwI",
-			"calloutName": "Front B Site",
-			"map": "mirage",
-			"position": {
-					"x": 255.96307692307678,
-					"y": 265.4153846153846
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "FUdYNO59qnaRmZUDe41g",
-			"calloutName": "Deep A Ramp",
-			"map": "mirage",
-			"position": {
-					"x": 756.9353846153845,
-					"y": 678.1661538461537
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "LLPGSkXi1zMNWKblTYc1",
-			"calloutName": "Van",
-			"map": "mirage",
-			"position": {
-					"x": 140.96,
-					"y": 159.86461538461535
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "LQj0cRkZcpQLIDmWQIHP",
-			"calloutName": "B Default",
-			"map": "mirage",
-			"position": {
-					"x": 199.24923076923073,
-					"y": 207.1261538461538
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "M827oYWKltnel9ZZImns",
-			"calloutName": "B Site Corner",
-			"map": "mirage",
-			"position": {
-					"x": 255.96307692307693,
-					"y": 322.1292307692308
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "MFqhDGPPTWi20XAyLdSt",
-			"calloutName": "Under B Apps",
-			"map": "mirage",
-			"position": {
-					"x": 254.3876923076923,
-					"y": 202.4
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "NBZMy06x9DHql1VUN0F2",
-			"calloutName": "B Apps",
-			"map": "mirage",
-			"position": {
-					"x": 326.8553846153846,
-					"y": 161.43999999999997
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "Ohtb1e9mbt3qRKxsN1c6",
-			"calloutName": "Deep Top Mid",
-			"map": "mirage",
-			"position": {
-					"x": 711.2492307692306,
-					"y": 350.48615384615385
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "QPQwY9AvU6UHJpUaaQLC",
-			"calloutName": "Left Arches",
-			"map": "mirage",
-			"position": {
-					"x": 320.55384615384617,
-					"y": 221.30461538461532
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "TLkdJPwF3Ak3W7r6JETo",
-			"calloutName": "A Ramp",
-			"map": "mirage",
-			"position": {
-					"x": 640.356923076923,
-					"y": 684.4676923076923
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "TSjREY3RJG8mHj6gAqcf",
-			"calloutName": "Top Connector",
-			"map": "mirage",
-			"position": {
-					"x": 499.3969230769231,
-					"y": 592.3446153846153
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "U0qE4hqGvxUgIagwPhhP",
-			"calloutName": "Palace",
-			"map": "mirage",
-			"position": {
-					"x": 659.2615384615384,
-					"y": 802.6215384615383
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "UoonqbscsmHYh70pGQ2J",
-			"calloutName": "Market Door",
-			"map": "mirage",
-			"position": {
-					"x": 136.23384615384614,
-					"y": 383.5692307692308
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "VMoHZotWFBMG3jW57cfl",
-			"calloutName": "Jungle",
-			"map": "mirage",
-			"position": {
-					"x": 440.2830769230769,
-					"y": 637.2061538461538
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "WJkZyhnnMSTYOyaIh7Y0",
-			"calloutName": "Deep B Apps",
-			"map": "mirage",
-			"position": {
-					"x": 437.1323076923076,
-					"y": 197.67384615384614
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "ZXWMH2KR7YXVSK7KLTqn",
-			"calloutName": "Underpass",
-			"map": "mirage",
-			"position": {
-					"x": 426.1046153846154,
-					"y": 426.1046153846154
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "aej5zCqD28AOQnjPJLpy",
-			"calloutName": "Wagon",
-			"map": "mirage",
-			"position": {
-					"x": 706.5230769230769,
-					"y": 465.4892307692307
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "bOxVh5Pb1BEkER1jFm6s",
-			"calloutName": "Bench",
-			"map": "mirage",
-			"position": {
-					"x": 100,
-					"y": 254.38769230769228
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "c2YHVWkfgeECMJnHMrhj",
-			"calloutName": "Jungle & Connector",
-			"map": "mirage",
-			"position": {
-					"x": 495.4215384615384,
-					"y": 667.1384615384616
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "cVUzVkZbfE2nDVjwiSKx",
-			"calloutName": "Market Window",
-			"map": "mirage",
-			"position": {
-					"x": 226.03076923076924,
-					"y": 383.5692307692307
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "dl4jGd6imEeNJILl1NRZ",
-			"calloutName": "Ticket Booth",
-			"map": "mirage",
-			"position": {
-					"x": 449.73538461538453,
-					"y": 845.1569230769229
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "i3UxdCjXKBUdBmrJUNHT",
-			"calloutName": "Catwalk",
-			"map": "mirage",
-			"position": {
-					"x": 467.06461538461525,
-					"y": 370.9661538461539
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "jVBMlfO2mD19ZkDS7pAZ",
-			"calloutName": "Back B Site",
-			"map": "mirage",
-			"position": {
-					"x": 199.24923076923073,
-					"y": 323.70461538461535
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "lqwgiRRKK7nsnGfdRyxL",
-			"calloutName": "B Site",
-			"map": "mirage",
-			"position": {
-					"x": 199.24923076923073,
-					"y": 266.9907692307692
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "m6LaCHmW2OZN35B2f9tz",
-			"calloutName": "B Apps",
-			"map": "mirage",
-			"position": {
-					"x": 270.1415384615384,
-					"y": 153.56307692307692
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "pu4FpCJTsEe5S27Rb3RW",
-			"calloutName": "Bench",
-			"map": "mirage",
-			"position": {
-					"x": 136.23384615384614,
-					"y": 213.4276923076923
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "seGWuWXXCYmF9fLcW5GB",
-			"calloutName": "Right Arches",
-			"map": "mirage",
-			"position": {
-					"x": 320.55384615384617,
-					"y": 281.1692307692308
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "v6uY23EnnVyIRAmSyeYd",
-			"calloutName": "Connector",
-			"map": "mirage",
-			"position": {
-					"x": 497.8215384615382,
-					"y": 508.84923076923076
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	},
-	{
-			"id": "vvwK3Lp7pKZ4bxdqAJwb",
-			"calloutName": "Top Mid",
-			"map": "mirage",
-			"position": {
-					"x": 630.9046153846153,
-					"y": 411.92615384615385
-			},
-			"type": "smoke",
-			"gameMode": "cs2"
-	}
+  {
+    "id": "9HMJGXLS4C8sGOqV6atJ",
+    "calloutName": "Tetris",
+    "map": "mirage",
+    "position": { "x": 629.3292307692307, "y": 649.8092307692307 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "DmfbRU27Z18ABo12Pnqf",
+    "calloutName": "Dark",
+    "map": "mirage",
+    "position": { "x": 662.4123076923076, "y": 758.5107692307691 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "L3gQ22831qBT5mMLhK6a",
+    "calloutName": "Ninja",
+    "map": "mirage",
+    "position": { "x": 602.5476923076923, "y": 824.6769230769228 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "M1nuMxj1ytvi68HyeqQs",
+    "calloutName": "Jungle",
+    "map": "mirage",
+    "position": { "x": 385.1446153846154, "y": 621.4523076923077 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "SX3NegeVdkHgg1kvR2Ad",
+    "calloutName": "Chair",
+    "map": "mirage",
+    "position": { "x": 578.916923076923, "y": 504.87384615384616 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "TorvLRFPCsXGla443O6G",
+    "calloutName": "A Ramp",
+    "map": "mirage",
+    "position": { "x": 756.9353846153846, "y": 676.5907692307693 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "jckyAIGPnJ9v9wgLMuQz",
+    "calloutName": "Window",
+    "map": "mirage",
+    "position": { "x": 386.71999999999997, "y": 460.7630769230769 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "xZEBxKTIVqtfaT4CCp8y",
+    "calloutName": "Mid Boxes",
+    "map": "mirage",
+    "position": { "x": 727.003076923077, "y": 465.4892307692307 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "xdzYybcZVIK6WVj5vOtL",
+    "calloutName": "Underpass",
+    "map": "mirage",
+    "position": { "x": 426.1046153846154, "y": 415.07692307692304 },
+    "type": "hegrenade",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "3QUds9DjnLJnHSj4qbCe",
+    "calloutName": "B Plat",
+    "map": "mirage",
+    "position": { "x": 203.97538461538463, "y": 156.71384615384616 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "5Y3xFZ4gITwohGtGqk5q",
+    "calloutName": "Market Window",
+    "map": "mirage",
+    "position": { "x": 219.72923076923075, "y": 399.32307692307694 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "BLZss2zDnfp7iT8O6vyu",
+    "calloutName": "Chair",
+    "map": "mirage",
+    "position": { "x": 580.4923076923076, "y": 512.7507692307692 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "CN7mvv2KKPD8jfIajkhd",
+    "calloutName": "Ticket Booth",
+    "map": "mirage",
+    "position": { "x": 430.8307692307692, "y": 849.8830769230768 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "E81Z2fr7DVMdrOPZpliO",
+    "calloutName": "Stairs",
+    "map": "mirage",
+    "position": { "x": 544.2584615384615, "y": 665.5630769230769 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "HsyNAU6Hzr7FO9LFQQ4A",
+    "calloutName": "Get Left",
+    "map": "mirage",
+    "position": { "x": 333.1569230769231, "y": 281.1692307692308 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "R3uwLNviy6JFeeOWKMnc",
+    "calloutName": "A Default",
+    "map": "mirage",
+    "position": { "x": 586.7938461538461, "y": 788.4430769230769 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "RPwdwyJfmPUSwkEATJqs",
+    "calloutName": "Mid Boxes",
+    "map": "mirage",
+    "position": { "x": 727.0030769230767, "y": 463.9138461538461 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "RhetHxfixjsgWukXBSPv",
+    "calloutName": "B Apps",
+    "map": "mirage",
+    "position": { "x": 318.97846153846143, "y": 159.86461538461535 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "SP8qma6AC6Rdhx2XwmfQ",
+    "calloutName": "A Ramp",
+    "map": "mirage",
+    "position": { "x": 695.4953846153846, "y": 651.3846153846154 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "TAI88ik7tRJ0xaMtVLiX",
+    "calloutName": "Palace",
+    "map": "mirage",
+    "position": { "x": 660.836923076923, "y": 826.2523076923077 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "VySFUtjOe0hrtBDC2Zs0",
+    "calloutName": "B Site",
+    "map": "mirage",
+    "position": { "x": 199.24923076923073, "y": 248.08615384615382 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "YNzIx228HA0dYOiZpmmZ",
+    "calloutName": "Mid Window",
+    "map": "mirage",
+    "position": { "x": 386.71999999999997, "y": 457.6123076923077 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "YgEpuN6RruH01XgyrkxE",
+    "calloutName": "Tetris",
+    "map": "mirage",
+    "position": { "x": 632.4799999999999, "y": 651.3846153846154 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Z3EB2WrUyaS2FYj5t01I",
+    "calloutName": "Deep Apps",
+    "map": "mirage",
+    "position": { "x": 407.2, "y": 199.24923076923076 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Z5P08jKRlUqsJQYlvQxp",
+    "calloutName": "Bench",
+    "map": "mirage",
+    "position": { "x": 98.42461538461538, "y": 255.96307692307695 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "apQ8mrWee9nqC2MIYy0P",
+    "calloutName": "Ninja",
+    "map": "mirage",
+    "position": { "x": 600.9723076923077, "y": 835.7046153846153 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "f87yGqd2gpmDyOg6Wmkv",
+    "calloutName": "Jungle",
+    "map": "mirage",
+    "position": { "x": 380.41846153846154, "y": 586.7938461538461 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "fLd9nCCymTxqRvoTf8KL",
+    "calloutName": "Sandwich",
+    "map": "mirage",
+    "position": { "x": 588.3692307692307, "y": 667.1384615384613 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "mSVZsnecHZR95KrgYUCK",
+    "calloutName": "Dark",
+    "map": "mirage",
+    "position": { "x": 657.6861538461537, "y": 744.3323076923077 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "miS1kdQ47742eLfCrInL",
+    "calloutName": "Ladder Room",
+    "map": "mirage",
+    "position": { "x": 413.5015384615384, "y": 350.48615384615385 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "pHfTGZGYZuMKZT5RiNdr",
+    "calloutName": "Connector",
+    "map": "mirage",
+    "position": { "x": 492.27076923076913, "y": 533.2307692307692 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "rZ9YRhu4ZfVctnEJhVSK",
+    "calloutName": "Get Right",
+    "map": "mirage",
+    "position": { "x": 350.48615384615385, "y": 227.6061538461538 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "w7c2Er1GOef9iTsGSiaL",
+    "calloutName": "Triple",
+    "map": "mirage",
+    "position": { "x": 485.96923076923076, "y": 766.3876923076923 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "xC18jfeGPj37evMoqRyj",
+    "calloutName": "Short",
+    "map": "mirage",
+    "position": { "x": 407.19999999999993, "y": 279.59384615384613 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "y8f0D39acecmXQuhFRRp",
+    "calloutName": "Market Door",
+    "map": "mirage",
+    "position": { "x": 136.23384615384614, "y": 400.89846153846156 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "zHM1hQJCNFR8inHVQmsX",
+    "calloutName": "A Site",
+    "map": "mirage",
+    "position": { "x": 547.4092307692307, "y": 767.9630769230769 },
+    "type": "molotov",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "BSaiDoKj1gQYqNEfbP8G",
+    "calloutName": "Connector",
+    "map": "mirage",
+    "position": { "x": 500.1476923076923, "y": 552.1353846153846 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "CPFJZVmQxC3DvDfCZIgg",
+    "calloutName": "Jungle & Connector",
+    "map": "mirage",
+    "position": { "x": 508.0246153846153, "y": 659.2615384615383 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "FTGJM9kPDJD6PZ3PjFxi",
+    "calloutName": "Tetris",
+    "map": "mirage",
+    "position": { "x": 649.8092307692307, "y": 670.2892307692308 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "It9l0hi2MwAddIGd7u8g",
+    "calloutName": "Ramp",
+    "map": "mirage",
+    "position": { "x": 727.003076923077, "y": 676.5907692307693 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "IyPa1c29A9Qc70bwPvAA",
+    "calloutName": "Underpass",
+    "map": "mirage",
+    "position": { "x": 427.68, "y": 413.5015384615384 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "JrBWPKUzxh2NKPBMoH7y",
+    "calloutName": "Apps Window",
+    "map": "mirage",
+    "position": { "x": 290.6215384615384, "y": 202.4 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "KUuDlrO7jFI0uyddrBs9",
+    "calloutName": "Apps",
+    "map": "mirage",
+    "position": { "x": 285.89538461538456, "y": 153.5630769230769 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "OhUZwR79k0NOSSoKGBva",
+    "calloutName": "Bottom Mid",
+    "map": "mirage",
+    "position": { "x": 449.73538461538453, "y": 467.06461538461537 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "QYPkBrQtbZUnrtSO7ZxI",
+    "calloutName": "Ladder Room",
+    "map": "mirage",
+    "position": { "x": 407.19999999999993, "y": 352.0615384615385 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "TQCZ3uRhFUkS1EpvfR1y",
+    "calloutName": "Top Mid",
+    "map": "mirage",
+    "position": { "x": 648.233846153846, "y": 456.0369230769231 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Y9r3Q0pCVOCoCBYG0zRv",
+    "calloutName": "Mid",
+    "map": "mirage",
+    "position": { "x": 552.1353846153845, "y": 462.33846153846144 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "hIZqhjFxxGhmjdqAHEWz",
+    "calloutName": "A Site",
+    "map": "mirage",
+    "position": { "x": 544.2584615384615, "y": 727.003076923077 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "m8fJIp0Bh2E9OcEYuA4K",
+    "calloutName": "B Site",
+    "map": "mirage",
+    "position": { "x": 197.67384615384614, "y": 265.41538461538465 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "o6VDIfQyEXKDmJIcV0dr",
+    "calloutName": "Palace",
+    "map": "mirage",
+    "position": { "x": 668.7138461538461, "y": 821.5261538461538 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "rRN6YYDH92RZ2Cnai61b",
+    "calloutName": "Bench",
+    "map": "mirage",
+    "position": { "x": 140.95999999999995, "y": 296.9230769230769 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "t2VebsAhF3QecVAo6dks",
+    "calloutName": "Short",
+    "map": "mirage",
+    "position": { "x": 449.73538461538453, "y": 284.31999999999994 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "tQqenUFsYlR30nlXz6M4",
+    "calloutName": "Window",
+    "map": "mirage",
+    "position": { "x": 386.72, "y": 487.5446153846154 },
+    "type": "flash",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "0HM2Er7MP1uKLYNZPIrf",
+    "calloutName": "Catwalk",
+    "map": "mirage",
+    "position": {
+      "x": 509.5999999999999,
+      "y": 411.92615384615385
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "0Q9fMxPU0AoG1j65CO8x",
+    "calloutName": "Stairs",
+    "map": "mirage",
+    "position": {
+      "x": 543.5076923076922,
+      "y": 666.3876923076922
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "0VFBuokSWYQjjjXTav5M",
+    "calloutName": "Short",
+    "map": "mirage",
+    "position": {
+      "x": 463.91384615384607,
+      "y": 314.2523076923076
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "47HL7z85yKu2HBCsS0FQ",
+    "calloutName": "A Ramp",
+    "map": "mirage",
+    "position": {
+      "x": 695.4953846153846,
+      "y": 651.3846153846154
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "4mpjCDL3EkDnETlWwFjm",
+    "calloutName": "Tetris",
+    "map": "mirage",
+    "position": {
+      "x": 481.24307692307684,
+      "y": 775.84
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "4pP7oNsKq0hSWWsW8U7G",
+    "calloutName": "Bottom Mid",
+    "map": "mirage",
+    "position": {
+      "x": 460.76307692307694,
+      "y": 465.4892307692307
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "5b5x7L4m5sPS1wZQBCQw",
+    "calloutName": "B Plat",
+    "map": "mirage",
+    "position": {
+      "x": 203.9753846153846,
+      "y": 155.13846153846154
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "6wlfWeSnFAPr95auWZPj",
+    "calloutName": "A Site",
+    "map": "mirage",
+    "position": {
+      "x": 552.1353846153845,
+      "y": 772.6892307692307
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "7BjFSdL29zgNIddIyOXP",
+    "calloutName": "Mid Window",
+    "map": "mirage",
+    "position": {
+      "x": 381.2430769230768,
+      "y": 458.436923076923
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "9HoPdYXTmxn2I8xoIUMp",
+    "calloutName": "A Default",
+    "map": "mirage",
+    "position": {
+      "x": 602.5476923076922,
+      "y": 791.5938461538461
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "E0noFTp0BgQjG6ylGC6a",
+    "calloutName": "Short",
+    "map": "mirage",
+    "position": {
+      "x": 394.5969230769231,
+      "y": 279.59384615384613
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "EBArCJZJTmt6VsnhqPrT",
+    "calloutName": "Tetris",
+    "map": "mirage",
+    "position": {
+      "x": 605.6984615384615,
+      "y": 646.6584615384616
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "ETsR8lz7g3n21uWKNzwI",
+    "calloutName": "Front B Site",
+    "map": "mirage",
+    "position": {
+      "x": 255.96307692307678,
+      "y": 265.4153846153846
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "FUdYNO59qnaRmZUDe41g",
+    "calloutName": "Deep A Ramp",
+    "map": "mirage",
+    "position": {
+      "x": 756.9353846153845,
+      "y": 678.1661538461537
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "LLPGSkXi1zMNWKblTYc1",
+    "calloutName": "Van",
+    "map": "mirage",
+    "position": {
+      "x": 140.96,
+      "y": 159.86461538461535
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "LQj0cRkZcpQLIDmWQIHP",
+    "calloutName": "B Default",
+    "map": "mirage",
+    "position": {
+      "x": 199.24923076923073,
+      "y": 207.1261538461538
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "M827oYWKltnel9ZZImns",
+    "calloutName": "B Site Corner",
+    "map": "mirage",
+    "position": {
+      "x": 255.96307692307693,
+      "y": 322.1292307692308
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "MFqhDGPPTWi20XAyLdSt",
+    "calloutName": "Under B Apps",
+    "map": "mirage",
+    "position": {
+      "x": 254.3876923076923,
+      "y": 202.4
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "NBZMy06x9DHql1VUN0F2",
+    "calloutName": "B Apps",
+    "map": "mirage",
+    "position": {
+      "x": 326.8553846153846,
+      "y": 161.43999999999997
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "Ohtb1e9mbt3qRKxsN1c6",
+    "calloutName": "Deep Top Mid",
+    "map": "mirage",
+    "position": {
+      "x": 711.2492307692306,
+      "y": 350.48615384615385
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "QPQwY9AvU6UHJpUaaQLC",
+    "calloutName": "Left Arches",
+    "map": "mirage",
+    "position": {
+      "x": 320.55384615384617,
+      "y": 221.30461538461532
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "TLkdJPwF3Ak3W7r6JETo",
+    "calloutName": "A Ramp",
+    "map": "mirage",
+    "position": {
+      "x": 640.356923076923,
+      "y": 684.4676923076923
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "TSjREY3RJG8mHj6gAqcf",
+    "calloutName": "Top Connector",
+    "map": "mirage",
+    "position": {
+      "x": 499.3969230769231,
+      "y": 592.3446153846153
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "U0qE4hqGvxUgIagwPhhP",
+    "calloutName": "Palace",
+    "map": "mirage",
+    "position": {
+      "x": 659.2615384615384,
+      "y": 802.6215384615383
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "UoonqbscsmHYh70pGQ2J",
+    "calloutName": "Market Door",
+    "map": "mirage",
+    "position": {
+      "x": 136.23384615384614,
+      "y": 383.5692307692308
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "VMoHZotWFBMG3jW57cfl",
+    "calloutName": "Jungle",
+    "map": "mirage",
+    "position": {
+      "x": 440.2830769230769,
+      "y": 637.2061538461538
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "WJkZyhnnMSTYOyaIh7Y0",
+    "calloutName": "Deep B Apps",
+    "map": "mirage",
+    "position": {
+      "x": 437.1323076923076,
+      "y": 197.67384615384614
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "ZXWMH2KR7YXVSK7KLTqn",
+    "calloutName": "Underpass",
+    "map": "mirage",
+    "position": {
+      "x": 426.1046153846154,
+      "y": 426.1046153846154
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "aej5zCqD28AOQnjPJLpy",
+    "calloutName": "Wagon",
+    "map": "mirage",
+    "position": {
+      "x": 706.5230769230769,
+      "y": 465.4892307692307
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "bOxVh5Pb1BEkER1jFm6s",
+    "calloutName": "Bench",
+    "map": "mirage",
+    "position": {
+      "x": 100,
+      "y": 254.38769230769228
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "c2YHVWkfgeECMJnHMrhj",
+    "calloutName": "Jungle & Connector",
+    "map": "mirage",
+    "position": {
+      "x": 495.4215384615384,
+      "y": 667.1384615384616
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "cVUzVkZbfE2nDVjwiSKx",
+    "calloutName": "Market Window",
+    "map": "mirage",
+    "position": {
+      "x": 226.03076923076924,
+      "y": 383.5692307692307
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "dl4jGd6imEeNJILl1NRZ",
+    "calloutName": "Ticket Booth",
+    "map": "mirage",
+    "position": {
+      "x": 449.73538461538453,
+      "y": 845.1569230769229
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "i3UxdCjXKBUdBmrJUNHT",
+    "calloutName": "Catwalk",
+    "map": "mirage",
+    "position": {
+      "x": 467.06461538461525,
+      "y": 370.9661538461539
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "jVBMlfO2mD19ZkDS7pAZ",
+    "calloutName": "Back B Site",
+    "map": "mirage",
+    "position": {
+      "x": 199.24923076923073,
+      "y": 323.70461538461535
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "lqwgiRRKK7nsnGfdRyxL",
+    "calloutName": "B Site",
+    "map": "mirage",
+    "position": {
+      "x": 199.24923076923073,
+      "y": 266.9907692307692
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "m6LaCHmW2OZN35B2f9tz",
+    "calloutName": "B Apps",
+    "map": "mirage",
+    "position": {
+      "x": 270.1415384615384,
+      "y": 153.56307692307692
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "pu4FpCJTsEe5S27Rb3RW",
+    "calloutName": "Bench",
+    "map": "mirage",
+    "position": {
+      "x": 136.23384615384614,
+      "y": 213.4276923076923
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "seGWuWXXCYmF9fLcW5GB",
+    "calloutName": "Right Arches",
+    "map": "mirage",
+    "position": {
+      "x": 320.55384615384617,
+      "y": 281.1692307692308
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "v6uY23EnnVyIRAmSyeYd",
+    "calloutName": "Connector",
+    "map": "mirage",
+    "position": {
+      "x": 497.8215384615382,
+      "y": 508.84923076923076
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  },
+  {
+    "id": "vvwK3Lp7pKZ4bxdqAJwb",
+    "calloutName": "Top Mid",
+    "map": "mirage",
+    "position": {
+      "x": 630.9046153846153,
+      "y": 411.92615384615385
+    },
+    "type": "smoke",
+    "gameMode": "cs2"
+  }
 ]

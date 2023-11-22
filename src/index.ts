@@ -9,6 +9,6 @@ const port = parseInt(process.env.PORT as string)
 
 app.listen(port, async () => {
 	await connect()
-	await writeLocs()
+	// await writeLocs()
   console.log(`Listening in: http://localhost:${port}`)
 })
