@@ -18,6 +18,8 @@ export const Nade = z.object({
 	resultImagePublicId: z.string(),
   lineupImageUrl: z.string(),
   resultImageUrl: z.string(),
+	createdAt: z.string(),
+	updatedAt: z.string()
 })
 
 export type Nade = z.infer<typeof Nade>

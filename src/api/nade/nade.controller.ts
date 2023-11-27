@@ -45,6 +45,8 @@ export async function createNadeHandler(
       resultImagePublicId: "",
       lineupImageUrl: "",
       resultImageUrl: "",
+      createdAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString(),
     }
 
     console.log("try uploading")
@@ -82,7 +84,7 @@ export async function createNadeHandler(
       })
 
       if (result.acknowledged) {
-        res.json(result)
+        res.status(201).send('success')
       } else {
         res.status(500).send("Nade not created")
       }
