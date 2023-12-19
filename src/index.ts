@@ -1,14 +1,14 @@
 import app from "./app"
 import { connect } from "./db"
-import dotenv from "dotenv"
 import { writeLocs } from "./helpers/writeLocs"
 
-dotenv.config()
+require('dotenv').config()
 
 const port = parseInt(process.env.PORT as string)
 
 app.listen(port, async () => {
 	await connect()
+	// pre-release function
 	// await writeLocs()
-  console.log(`Listening in: http://localhost:${port}`)
+  console.log(`Listening on: http://localhost:${port}`)
 })
