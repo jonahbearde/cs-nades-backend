@@ -3,7 +3,7 @@ import { NadeFormData } from "../../types/nade"
 import { Nade } from "./nade.model"
 import formidable, { Fields } from "formidable"
 import { uploadToCloudinary } from "../../utils/cloudinary"
-import { createNade } from "./nade.service"
+import { createNade, findNades } from "./nade.service"
 import { UploadApiResponse } from "cloudinary"
 
 type NadeFields =
@@ -84,7 +84,7 @@ export async function createNadeHandler(
       })
 
       if (result.acknowledged) {
-        res.status(201).send('success')
+        res.status(201).send("success")
       } else {
         res.status(500).send("Nade not created")
       }
@@ -93,4 +93,19 @@ export async function createNadeHandler(
       next(error)
     }
   })
+}
+
+export async function getNadesHandler(
+  req: Request,
+  res: Response,
+  next: NextFunction
+) {
+  try {
+    const query = req.query
+    const cursor = findNades({ ...query })
+    const nades = await cursor.toArray()
+    res.json(nades)
+  } catch (error) {
+    next(error)
+  }
 }
